@@ -14,7 +14,7 @@ time, mark, audio, video {
   margin: 0;  
   padding: 0;  
   border: 0;  
-  font-size: 100%;  
+  font-size: 62.5%;  
   font: inherit;  
   vertical-align: baseline;  
 }
@@ -27,7 +27,7 @@ a {
 body {
   background: #333;
   font-size: 2rem;
-  color: white;
+  color: orange;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -50,7 +50,7 @@ header {
 }
 
 nav {
-  font-size: 1rem;
+  font-size: 1.3rem;
 }
 
 nav ul {
